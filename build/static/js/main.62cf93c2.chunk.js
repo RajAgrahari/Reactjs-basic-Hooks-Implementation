@@ -1,0 +1,2 @@
+(this.webpackJsonpreactprojects=this.webpackJsonpreactprojects||[]).push([[0],{4:function(e,t,c){"use strict";c.r(t);c(1);var n=c(3),r=c.n(n),s=(c(9),c(0)),a=(new Date).toLocaleDateString(),o=(new Date).toLocaleTimeString();r.a.render(Object(s.jsxs)(s.Fragment,{children:[Object(s.jsx)("h1",{children:"RAJ AGRAHARI"}),Object(s.jsx)("p",{children:"Today's date is ".concat(a)}),Object(s.jsx)("p",{children:"current time is ".concat(o)})]}),document.getElementById("root"))},9:function(e,t,c){}},[[4,1,2]]]);
+//# sourceMappingURL=main.62cf93c2.chunk.js.map
